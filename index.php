@@ -1,4 +1,6 @@
-<?php$ejercicios = [
+<?php
+
+$ejercicios = [
     'ejercicio1' => [
         'numero'      => '01',
         'titulo'      => 'GESTIÓN DE PUNTUACIONES',
