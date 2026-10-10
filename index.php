@@ -11,7 +11,7 @@ $ejercicios = [
             'Cálculo del promedio con bucle foreach.',
             'Filtrado con array_filter (Julio de 2024).'
         ],
-        'ruta'        => './ejercicios/ejercicio1/index.html'
+        'ruta'        => './ejercicios/ejercicio1/'
     ],
     'ejercicio2' => [
         'numero'      => '02',
@@ -23,7 +23,7 @@ $ejercicios = [
             'Promedio de edad agrupado por especie.',
             'Clasificación por rangos de edad.'
         ],
-        'ruta'        => './ejercicios/ejercicio2/index.html'
+        'ruta'        => './ejercicios/ejercicio2/'
     ],
     'ejercicio3' => [
         'numero'      => '03',
@@ -35,7 +35,7 @@ $ejercicios = [
             'Evaluación de aprobación (>= 70).',
             'Conteo totalizador con array_reduce.'
         ],
-        'ruta'        => './ejercicios/ejercicio3/index.html'
+        'ruta'        => './ejercicios/ejercicio3/'
     ],
     'ejercicio4' => [
         'numero'      => '04',
@@ -47,7 +47,7 @@ $ejercicios = [
             'Transformación de datos con array_map.',
             'Renderizado en tabla HTML y categorías.'
         ],
-        'ruta'        => './ejercicios/ejercicio4/index.html'
+        'ruta'        => './ejercicios/ejercicio4/'
     ],
     'ejercicio5' => [
         'numero'      => '05',
@@ -59,9 +59,10 @@ $ejercicios = [
             'Cálculo numérico de disponibilidad por zona.',
             'Cálculo condicional de recaudación total.'
         ],
-        'ruta'        => './ejercicios/ejercicio5/index.html'
+        'ruta'        => './ejercicios/ejercicio5/'
     ]
 ];
+
 ?>
 <!DOCTYPE html>
 <html lang="es">
