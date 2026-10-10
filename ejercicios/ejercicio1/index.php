@@ -62,7 +62,7 @@ $puntuacionesJulio2024 = array_filter(
 <body class="bg-white text-black font-sans antialiased selection:bg-magenta selection:text-white">
 
     <div class="border-b border-black py-3 px-6 sm:px-12 flex justify-between items-center text-xs tracking-widest uppercase font-mono">
-        <a href="../../index.html" class="hover:text-magenta transition-colors duration-200 font-bold">&larr; VOLVER AL MENÚ PRINCIPAL</a>
+        <a href="/" class="hover:text-magenta transition-colors duration-200 font-bold">&larr; VOLVER AL MENÚ PRINCIPAL</a>
     </div>
 
     <div class="max-w-5xl mx-auto px-6 sm:px-12 py-12">
